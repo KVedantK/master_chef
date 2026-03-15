@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import os
+from urllib.parse import urlparse
 import re
 
 def slugify(text):
@@ -47,6 +48,10 @@ def scrape_to_individual_jsons():
         filename = f"{slugify(title)}.json"
         filepath = os.path.join(output_dir, filename)
 
+
+        parsed_url = urlparse(url)
+        domain = parsed_url.netloc
+
         print(f"📄 Processing: {title}")
         
         try:
@@ -61,7 +66,7 @@ def scrape_to_individual_jsons():
                     "url": url,
                     "content": content,
                     "metadata": {
-                        "source": "Wikipedia" if "wikipedia" in url else "Wikibooks" if "wikibooks" in url else "Blog",
+                        "source": domain,
                         "category": "East Asian",
                         "filename": filename
                     }

@@ -2,14 +2,13 @@ import os
 import json
 from langchain_community.document_loaders import DirectoryLoader, JSONLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 
 load_dotenv()
 
 def run_hosted_ingestion():
-    # 1. Load your segregated JSONs
     loader = DirectoryLoader(
         './corpus_data',
         glob='**/*.json',
@@ -17,22 +16,20 @@ def run_hosted_ingestion():
         loader_kwargs={'jq_schema': '.content', 'text_content': True}
     )
 
-    print("📦 Loading documents...")
+    print("Loading documents from json to Docuement format")
     docs = loader.load()
 
-    # 2. Bespoke Chunking
-    # We use newlines as primary separators to keep recipe steps intact
+    # CHUNKING
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=700,
         chunk_overlap=100,
         separators=["\n\n", "\n", ".", " ", ""]
     )
     chunks = text_splitter.split_documents(docs)
-    print(f"✂️ Created {len(chunks)} chunks.")
+    print(f"Created {len(chunks)} chunks.")
 
-    # 3. Hosted Vectorization
-    # This sends chunks to HF servers instead of using your local CPU
-    embeddings = HuggingFaceInferenceAPIEmbeddings(
+    # 3. Vectorization with of the generated chunks using HuggingFace's API
+    embeddings = HuggingFaceEmbeddings(
         api_key=os.getenv("HF_API_KEY"), 
         model_name="sentence-transformers/all-MiniLM-L6-v2"
     )
