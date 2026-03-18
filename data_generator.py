@@ -95,4 +95,3 @@ def collect_all_sources():
 
 
 
-collect_all_sources()

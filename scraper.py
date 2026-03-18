@@ -84,4 +84,3 @@ def scrape_to_individual_jsons():
     print(f"\n✅ All files saved in /{output_dir}")
 
 
-scrape_to_individual_jsons()

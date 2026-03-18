@@ -53,7 +53,6 @@ def data_loading(corpus_path):
             collection_name="Culinary_Knowledge",
             persist_directory="./Vector_Storage_MasterChef",
         )
-        print("Collection count immediately after load:", vector_store._collection.count())
         print("*********************************************************")
         print(f"Loaded {len(docs)} documents")
         print(f"Created {len(chunks)} chunks")
@@ -66,4 +65,4 @@ def data_loading(corpus_path):
         return None
 
 
-data_loading("./corpus_data")
+
