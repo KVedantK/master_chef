@@ -20,7 +20,7 @@ class QueryResponse(BaseModel):
 async def get_culinary_answer(request: QueryRequest):
     query = request.query
     try:
-        response, sources = get_response(query)
+        response, sources, docs = get_response(query)
 
         return QueryResponse(
             query=query,

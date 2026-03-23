@@ -1,0 +1,835 @@
+[
+    {
+      "question": "What seasonings were not used in traditional Ainu cuisine but appeared in modern Ainu cuisine?",
+      "answer": "Traditional Ainu cuisine did not use miso, soy sauce, or sugar, though these seasonings appeared in modern Ainu cuisine."
+    },
+    {
+      "question": "How is citatap traditionally prepared in Ainu cuisine?",
+      "answer": "Citatap is prepared by placing salmon head, milt, and filleting remains on a wooden board, then chopping and beating them with a sharp heavy object such as a hatchet. The paste is flavored with minced spring onion, pukusa, or long-stamen chive, and seasoned with dried kelp and salt."
+    },
+    {
+      "question": "What ingredients are listed for making broccoli stir fry?",
+      "answer": "The listed ingredients are chicken or other meat, broccoli, powdered ginger (optional), soy sauce, oil to fry with possibly including sesame oil, and sesame seeds."
+    },
+    {
+      "question": "When should the broccoli be added during the stir-fry process, and how should it look when done?",
+      "answer": "The broccoli is added after the soy sauce, sesame seeds, and optional ginger, with the stalks going in first. When done, it should be just slightly softened and very bright green, having lost the bluish cast without gaining any yellow-brown cast."
+    },
+    {
+      "question": "What type of tofu is used to prepare agedashi tofu?",
+      "answer": "Agedashi tofu is made using silken (kinugoshi) firm tofu cut into cubes."
+    },
+    {
+      "question": "What ingredients are used to make the tentsuyu broth served with agedashi tofu?",
+      "answer": "The tentsuyu broth is made from dashi, mirin, and shoyu (Japanese soy sauce)."
+    },
+    {
+      "question": "What is baozi and how does it differ from mantou in Chinese cuisine?",
+      "answer": "Baozi is a type of steamed, filled bun or bread-like item in Chinese cuisine, whereas mantou is a similar steamed bun that does not contain filling."
+    },
+    {
+      "question": "How long should baozi be steamed during the cooking process?",
+      "answer": "Baozi should be steamed over gently boiling water for 10–15 minutes."
+    },
+    {
+      "question": "What ingredients are combined to make the marinade for the pork in BBQ Pork Fried Rice?",
+      "answer": "The marinade is made by combining barbecue sauce, light soy sauce, hoisin sauce, sugar, and salt."
+    },
+    {
+      "question": "How is the pork cooked after marinating in the BBQ Pork Fried Rice recipe?",
+      "answer": "After marinating for 25 minutes, the pork is transferred to a baking pan and baked for 20 minutes at 200°C."
+    },
+    {
+      "question": "What ingredients are used to make the dough for Beef Yakiniku Pizza?",
+      "answer": "The dough is made using high-protein flour, low-protein flour, instant yeast, sugar, cold water, and salt."
+    },
+    {
+      "question": "At what temperature and for how long is the Beef Yakiniku Pizza baked?",
+      "answer": "The pizza is baked in the oven at 220°C for 20 minutes."
+    },
+    {
+      "question": "What are the main components that make up a typical bibimbap dish?",
+      "answer": "Bibimbap consists of a bowl of steamed white rice topped with vegetables, beef (or sometimes tofu or chicken), a whole egg, and gochujang (Korean chili pepper paste), with gochujang usually served separately."
+    },
+    {
+      "question": "What distinguishes dolsot bibimbap from regular bibimbap?",
+      "answer": "Dolsot bibimbap is served in a very hot stoneware bowl that crisps the rice and cooks the egg while the dish is being served."
+    },
+    {
+      "question": "What are the main ingredients used to make bubble tea according to the recipe?",
+      "answer": "The ingredients are cooked boba tapioca pearls, crushed ice, very strong chilled black tea, milk, and honey or granulated sugar."
+    },
+    {
+      "question": "How is bubble tea prepared in the recipe?",
+      "answer": "The tapioca pearls are placed in a large glass, then the remaining ingredients are shaken together in a cocktail shaker until frothy and poured into the glass, served with large-diameter straws."
+    },
+    {
+      "question": "What ingredients are used to make the marinade for bulgogi in the recipe?",
+      "answer": "The marinade includes soy sauce, white granulated sugar, sesame oil, pepper, minced garlic, and optionally mirin, along with sliced green onions, mushrooms, and onion mixed with the beef."
+    },
+    {
+      "question": "How long should the beef be marinated for bulgogi before cooking?",
+      "answer": "The beef should be marinated for at least 30 minutes, though marinating overnight produces the best flavor and tenderization."
+    },
+    {
+      "question": "What vegetables are typically used to make cabbage kimchi in the recipe?",
+      "answer": "The recipe uses napa cabbage, onion, carrot, Korean radish, and green onions."
+    },
+    {
+      "question": "How long should the kimchi be refrigerated after preparation before it is ready to eat?",
+      "answer": "The kimchi should be refrigerated for at least 2–3 days to allow it to ripen."
+    },
+    {
+      "question": "What ingredients are used to make the pepper salt seasoning for Cantonese crispy fried chicken?",
+      "answer": "The pepper salt seasoning is made from salt, Sichuan peppercorns, and ajinomoto seasoning."
+    },
+    {
+      "question": "At what temperature and for how long is the chicken deep fried in the Cantonese crispy fried chicken recipe?",
+      "answer": "The chicken is deep fried in oil heated to 350°F (175°C) for about 10 minutes per side until brown and cooked."
+    },
+    {
+      "question": "What ingredients are used to make the marinade for Cantonese roast duck?",
+      "answer": "The marinade is made with light soy sauce, dark soy sauce (optional), white wine, sherry, or Chinese cooking wine, Chinese five-spice powder, and hoisin sauce."
+    },
+    {
+      "question": "To what internal temperature should the duck be roasted in the Cantonese roast duck recipe?",
+      "answer": "The duck should be roasted until the internal temperature reaches a minimum of 180°F, measured at the thickest part between the thigh."
+    },
+    {
+      "question": "What does the Japanese cooking term 'kinpira' refer to?",
+      "answer": "Kinpira refers to a cooking method that involves sautéing and simmering root vegetables such as carrots and burdock root using minimal water so they remain tender without losing flavor or nutrients."
+    },
+    {
+      "question": "What ingredients are used in the recipe for carrots cooked kinpira style?",
+      "answer": "The ingredients are julienned carrots, vegetable oil (preferably sesame oil), and tamari or shoyu soy sauce."
+    },
+    {
+      "question": "What cut of pork is recommended for making char siu and why?",
+      "answer": "Pork shoulder is recommended because it is fatty enough to keep the meat moist during cooking."
+    },
+    {
+      "question": "How long should the pork be marinated when preparing char siu?",
+      "answer": "The pork should be marinated in the refrigerator for several hours, preferably between 8 and 24 hours."
+    },
+    {
+      "question": "What are the main ingredients used to prepare Chinese rice porridge (congee) in the recipe?",
+      "answer": "The main ingredients are round rice, water or chicken broth, light soy sauce, sesame oil, and white pepper."
+    },
+    {
+      "question": "How long should the rice be cooked when making congee?",
+      "answer": "The rice should be cooked over low heat for about 1 hour and 45 minutes to 2 hours until it turns into a mash."
+    },
+    {
+      "question": "What ingredient is used instead of meat in this vegan version of chow mein?",
+      "answer": "Seitan is used instead of traditional meats such as chicken, pork, or shrimp."
+    },
+    {
+      "question": "How are the noodles prepared before being stir-fried in the chow mein recipe?",
+      "answer": "The noodles are softened in boiling salted water, plunged into cold water to stop the cooking process, drained thoroughly, and then fried in oil until golden."
+    },
+    {
+      "question": "What is the traditional filling used in daifuku mochi?",
+      "answer": "The traditional filling used in daifuku mochi is anko, a sweetened red bean paste made from azuki beans."
+    },
+    {
+      "question": "What type of flour is used to make the mochi dough for daifuku?",
+      "answer": "The mochi dough for daifuku is made using sweet glutinous rice flour, also known as mochiko."
+    },
+    {
+      "question": "At what temperature are the sweet potatoes fried when making daigakuimo?",
+      "answer": "The sweet potatoes are fried at 350°F (175°C) until brown."
+    },
+    {
+      "question": "What ingredients are used to make the sticky coating for daigakuimo?",
+      "answer": "The sticky coating is made from water, white granulated sugar, and soy sauce."
+    },
+    {
+      "question": "What ingredients are used to make dalgona coffee?",
+      "answer": "The ingredients are instant coffee, sugar, warm water, milk, and optionally ice cubes."
+    },
+    {
+      "question": "How is the whipped mixture for dalgona coffee prepared?",
+      "answer": "Instant coffee and sugar are placed in a bowl, then warm water is gradually added while whipping the mixture with a hand mixer or whisking until it becomes creamy."
+    },
+    {
+      "question": "What are the common ingredients used to make traditional dashi?",
+      "answer": "Traditional dashi is commonly made using ingredients such as kelp (kombu), bonito flakes (katsuobushi), and dried sardines or anchovies (niboshi)."
+    },
+    {
+      "question": "How should kombu be prepared when making kombu dashi?",
+      "answer": "Kombu should be wiped gently with a damp cloth, soaked in water for about 30 minutes, then heated slowly and removed just before the water boils, followed by simmering the liquid briefly and straining."
+    },
+    {
+      "question": "What type of wrapper is used to make egg rolls?",
+      "answer": "Egg rolls are made using egg roll wrappers, which are wheat flour skins."
+    },
+    {
+      "question": "What ingredient is used as glue to seal the egg roll wrapper during preparation?",
+      "answer": "Egg white is used as glue to seal the egg roll wrapper."
+    },
+    {
+      "question": "What type of fish is used to make euneo-juk?",
+      "answer": "Euneo-juk is made using whole sweetfish that has been cleaned and gutted."
+    },
+    {
+      "question": "Which seasonings are added to the fish broth when preparing euneo-juk?",
+      "answer": "Doenjang, gochujang, and fresh ginger are added to the fish broth."
+    },
+    {
+      "question": "What ingredients are used to coat the corn before deep-frying in the fried corn recipe?",
+      "answer": "The corn is first coated with an egg wash and then tossed in a flour mixture containing salt, pepper, MSG, and other spices."
+    },
+    {
+      "question": "How long should the corn be deep-fried in the fried corn recipe?",
+      "answer": "The corn should be deep-fried until golden brown on the outside, which takes less than 2 minutes."
+    },
+    {
+      "question": "What ingredients are used to make the sauce for General Tso's chicken?",
+      "answer": "The sauce is made using dark soy sauce, rice vinegar, Shaoxing rice wine, sugar, chicken stock or water, ginger, garlic, and optionally cornstarch to thicken it."
+    },
+    {
+      "question": "At what temperature should the oil be heated when deep-frying the chicken for General Tso's chicken?",
+      "answer": "The oil should be heated to about 180°C (350°F) when deep-frying the chicken."
+    },
+    {
+      "question": "What are the two primary ingredients that give gimbap its name?",
+      "answer": "The two primary ingredients are gim (sheets of dried seaweed) and bap (rice)."
+    },
+    {
+      "question": "What tool is used to roll gimbap in the recipe?",
+      "answer": "A bamboo gimbap or sushi rolling mat (gimbap mari) is used to roll the gimbap."
+    },
+    {
+      "question": "What ingredients are used to make the sauce for grilled aubergine in this recipe?",
+      "answer": "The sauce is made from miso paste, sugar, and soup stock."
+    },
+    {
+      "question": "How long should the aubergine be grilled when preparing grilled aubergine?",
+      "answer": "The aubergine should be grilled about 5 minutes, until it is tender and browned all over."
+    },
+    {
+      "question": "What is gunkanmaki in Japanese cuisine?",
+      "answer": "Gunkanmaki is a type of sushi where an oval-shaped piece of sushi rice is wrapped with nori and topped with ingredients."
+    },
+    {
+      "question": "What are some common toppings used for gunkanmaki?",
+      "answer": "Common toppings include sea urchin roe (uni), salmon roe, negitoro (minced raw tuna), sliced cucumber, and quail egg."
+    },
+    {
+      "question": "What sauce ingredients are used to flavor the beef in gyudon?",
+      "answer": "The beef in gyudon is flavored with a sauce made from sake, sugar, mirin, soy sauce, water, dashi, and grated ginger."
+    },
+    {
+      "question": "What toppings are typically added when serving gyudon?",
+      "answer": "Gyudon is typically topped with a soft egg, beni shōga (pickled ginger), chopped scallions, and shichimi seasoning."
+    },
+    {
+      "question": "What cut of meat is primarily used to make Hongshao rou?",
+      "answer": "Hongshao rou is primarily made using cubed pork belly."
+    },
+    {
+      "question": "How long is the pork simmered when cooking Hongshao rou?",
+      "answer": "The pork is covered and simmered for about 40 minutes."
+    },
+    {
+      "question": "What ingredients give hot and sour soup its characteristic hot and sour flavors?",
+      "answer": "The hot flavor comes from garlic chili sauce and black pepper, while the sour flavor comes from white vinegar."
+    },
+    {
+      "question": "How is the soup thickened in the hot and sour soup recipe?",
+      "answer": "The soup is thickened by adding a mixture of cornstarch and cold water and simmering until it thickens."
+    },
+    {
+      "question": "What ingredient is used as the wrapper in this version of inarizushi?",
+      "answer": "This version of inarizushi uses a thin omelet made from eggs as the wrapper instead of the traditional fried tofu."
+    },
+    {
+      "question": "What ingredients are mixed with the eggs to make the omelet wrapper for inarizushi?",
+      "answer": "The omelet mixture includes eggs, sake, sugar, salt, cornstarch, and cold water."
+    },
+    {
+      "question": "What proportion of salt is used when preparing Japanese pickled plums (umeboshi)?",
+      "answer": "Salt is used at a proportion of 20% by weight of the plums."
+    },
+    {
+      "question": "How long are the plums left to pickle after the initial brine forms in the umeboshi preparation process?",
+      "answer": "After the pickling liquid forms, the plums are re-weighted and left to pickle for another 3–4 weeks."
+    },
+    {
+      "question": "What ingredients are used to make the marinade for Korean shortribs?",
+      "answer": "The marinade is made from soy sauce, scallions, garlic, toasted sesame oil, minced fresh ginger, canola oil, and Thai bird chiles."
+    },
+    {
+      "question": "At what temperature and for how long are Korean shortribs cooked on the grill?",
+      "answer": "The shortribs are grilled at 225–300°F for about 5 hours until the meat falls off the bone."
+    },
+    {
+      "question": "What ingredients are used to marinate the chicken in Kung Pao chicken?",
+      "answer": "The chicken is marinated with oyster sauce, sherry or rice wine, and cornstarch."
+    },
+    {
+      "question": "What ingredients are added to create the sauce for Kung Pao chicken?",
+      "answer": "The sauce is made with soy sauce, rice vinegar, chicken broth, garlic powder, sugar, cornstarch, sesame oil, and hoisin sauce."
+    },
+    {
+      "question": "What are the main components used to make makizushi (maki roll)?",
+      "answer": "Makizushi is made by layering nori, seasoned sushi rice, and various fillings such as fish or vegetables before rolling and slicing."
+    },
+    {
+      "question": "What tool is typically used to roll makizushi?",
+      "answer": "A sushi roller called a makisu (bamboo sushi rolling mat) is used to roll makizushi."
+    },
+    {
+      "question": "What type of tofu is used in mapo tofu?",
+      "answer": "Silken tofu."
+    },
+    {
+      "question": "Which ingredient gives mapo tofu its characteristic numbing sensation?",
+      "answer": "Szechuan pepper."
+    },
+    {
+      "question": "What types of meat can be used in mapo tofu according to the recipe?",
+      "answer": "Minced beef or pork."
+    },
+    {
+      "question": "What sauce ingredient is used to provide the spicy base flavor in mapo tofu?",
+      "answer": "Chili bean paste (la doubanjiang)."
+    },
+    {
+      "question": "What type of meat is used in niku jaga?",
+      "answer": "Sliced beef."
+    },
+    {
+      "question": "Which noodles are included in the niku jaga recipe?",
+      "answer": "Shirataki noodles."
+    },
+    {
+      "question": "What sauce ingredients are combined with the beef at the beginning of the niku jaga recipe?",
+      "answer": "Mirin, soy sauce, sugar, and ginger."
+    },
+    {
+      "question": "What type of potatoes are recommended for making niku jaga?",
+      "answer": "Red potatoes."
+    },
+    {
+      "question": "What meats are used in the filling for meat and shrimp potstickers?",
+      "answer": "Ground chicken or pork and shrimp."
+    },
+    {
+      "question": "What wrappers are used to assemble the potstickers?",
+      "answer": "Store-bought gyoza or wonton wrappers."
+    },
+    {
+      "question": "Which two ingredients add aromatic flavor to the potsticker filling?",
+      "answer": "Fresh ginger and green/spring onion."
+    },
+    {
+      "question": "How are potstickers cooked after being placed in the pan?",
+      "answer": "They are first fried until golden brown, then water is added and they are covered to steam."
+    },
+    {
+      "question": "What proportion of dashi and miso is typically used in traditional miso soup?",
+      "answer": "Traditional miso soup uses about 90–94% dashi and 6–10% miso by volume."
+    },
+    {
+      "question": "Why should miso not be boiled when preparing miso soup?",
+      "answer": "Miso should not be boiled because boiling degrades and causes the loss of some nuances of its flavor."
+    },
+    {
+      "question": "What amount of miso is used in the miso soup recipe?",
+      "answer": "The recipe uses 2 tablespoons of miso."
+    },
+    {
+      "question": "Which ingredients can optionally be added to the miso soup after lowering the heat?",
+      "answer": "Mushrooms, seaweed, and tofu can be optionally added after lowering the heat."
+    },
+    {
+      "question": "At what temperature and for how long should natto ferment during preparation?",
+      "answer": "Natto should ferment at approximately 100°F (38°C) for 22–24 hours."
+    },
+    {
+      "question": "How long should soybeans be soaked before cooking when preparing natto?",
+      "answer": "The soybeans should be soaked for 9–12 hours before cooking."
+    },
+    {
+      "question": "What ingredients are used to make the batter for okonomiyaki?",
+      "answer": "The batter is made using all-purpose flour (or yam flour), water (or stock), and eggs."
+    },
+    {
+      "question": "How long should the okonomiyaki pancake be fried after it is turned over?",
+      "answer": "After turning the pancake over, it should be fried for about five minutes until the other side is golden brown."
+    },
+    {
+      "question": "What type of rice must be used to make onigiri so that the rice balls hold together?",
+      "answer": "Japanese-style short grain rice must be used so the rice is sticky enough for the onigiri to hold together."
+    },
+    {
+      "question": "What are some common fillings used in onigiri?",
+      "answer": "Common fillings include umeboshi (pickled plum), katsuobushi moistened with soy sauce, cooked salted salmon, cod roe, kombu, and canned tuna with mayonnaise."
+    },
+    {
+      "question": "What are the main ingredients used to prepare Pig's Trotters and Ginger Vinegar Stew?",
+      "answer": "The main ingredients are pig trotters, ginger, Chinese sweet black vinegar, eggs, salt, and oil."
+    },
+    {
+      "question": "How long should the stew simmer after the pig trotters and ginger are added to the vinegar?",
+      "answer": "The stew should simmer for about 20 minutes after the ginger and trotters are added to the vinegar."
+    },
+    {
+      "question": "What ingredients are combined to make the filling for pork gyoza dumplings?",
+      "answer": "The filling is made from ground pork, prepared mustard, soy sauce, and minced vegetables such as green onion, bell pepper, or chili."
+    },
+    {
+      "question": "What step is performed after the dumplings have browned on the bottom during cooking?",
+      "answer": "About ⅓ cup of stock, broth, or water is poured into the pan, and the dumplings are covered with a tight lid to cook until the liquid turns to steam."
+    },
+    {
+      "question": "How much filling is placed into the center of the wrapper when assembling pot stickers?",
+      "answer": "About 1 tablespoon of filling is placed into the center of the wrapper."
+    },
+    {
+      "question": "What is the purpose of adding ½ cup of water during the cooking of pot stickers?",
+      "answer": "The water is added so the pot stickers can steam, covered, until the water cooks away."
+    },
+    {
+      "question": "How long should the quail eggs be boiled when preparing Quail Egg and Chili Jangjorim?",
+      "answer": "The quail eggs should be boiled for about 10 minutes."
+    },
+    {
+      "question": "What ingredients are combined to make the braising liquid for Quail Egg and Chili Jangjorim?",
+      "answer": "The braising liquid is made from water, soy sauce, sugar, refined rice wine, garlic, and fresh ginger."
+    },
+    {
+      "question": "What main ingredient is used to make red bean paste?",
+      "answer": "Red bean paste is made from mashed adzuki beans mixed with sugar."
+    },
+    {
+      "question": "How long should the adzuki beans be simmered when preparing red bean paste?",
+      "answer": "The adzuki beans should be simmered for about 1½–2 hours until soft and slightly disintegrating."
+    },
+    {
+      "question": "How long should the cooked rice be ground when making roasted brown rice mochi?",
+      "answer": "The cooked rice should be ground for at least 30 minutes until the grain becomes completely fluid and sticky."
+    },
+    {
+      "question": "How long should the shaped rice squares dry before roasting in the roasted brown rice mochi recipe?",
+      "answer": "The rice squares should be allowed to dry for 1–2 days before roasting."
+    },
+    {
+      "question": "What ingredients are used to marinate the shredded pork in salted mustard greens and shredded meat noodle soup?",
+      "answer": "The shredded pork is marinated with corn starch, soy sauce, and sugar."
+    },
+    {
+      "question": "How are the mustard greens prepared before being cooked in the noodle soup?",
+      "answer": "The mustard greens are washed, salted, sealed in a plastic bag, and stored in the refrigerator for several days before being diced and cooked."
+    },
+    {
+      "question": "How long should the dried shrimp and mushrooms be soaked when preparing shark fin soup?",
+      "answer": "The dried shrimp and mushrooms should be soaked for 30 minutes in warm water."
+    },
+    {
+      "question": "How long are the shark fins simmered after being placed in fresh water and brought to a boil?",
+      "answer": "After being placed in fresh water and brought to a boil, the shark fins are simmered for 1½ hours."
+    },
+    {
+      "question": "What ratio-related ingredients are emphasized as important in simple restaurant miso soup?",
+      "answer": "The important ratio is between miso paste and dashi."
+    },
+    {
+      "question": "What ingredients are placed in the bowl before the hot dashi is added in simple restaurant miso soup?",
+      "answer": "Wakame and cubes of medium-firm tofu are placed in the bowl before the hot dashi is added."
+    },
+    {
+      "question": "What two main ingredients are used to make simple soup dashi?",
+      "answer": "The main ingredients are dried, smoked skipjack tuna (katsuobushi) and kombu seaweed."
+    },
+    {
+      "question": "How long should the tuna flakes be boiled when preparing simple soup dashi?",
+      "answer": "The tuna flakes should be boiled for about 30 seconds before removing the stock from heat."
+    },
+    {
+      "question": "What ingredients are used to prepare the marinade for soy mustard lamb chops?",
+      "answer": "The marinade is made from soy sauce, extra light olive oil, sesame oil, fresh rosemary leaves, brown mustard, and honey."
+    },
+    {
+      "question": "How long should the lamb chops be marinated before grilling?",
+      "answer": "The lamb chops should be marinated for about 30 minutes, turning frequently."
+    },
+    {
+      "question": "What ingredients are added to the chicken after it is browned in the soy sauce chicken recipe?",
+      "answer": "Soy sauce, cooking wine, chopped ginger, sugar, and enough water to cover the chicken are added."
+    },
+    {
+      "question": "How is the chicken cooked after the sauce ingredients are added in the soy sauce chicken recipe?",
+      "answer": "The chicken is simmered uncovered over low heat until most of the liquid has evaporated."
+    },
+    {
+      "question": "What sauce ingredient is used to flavor the spaghetti in the Naporitan recipe?",
+      "answer": "Ketchup is used to flavor the spaghetti."
+    },
+    {
+      "question": "Which vegetables are stir-fried with sausage or ham in the Naporitan recipe?",
+      "answer": "Thinly sliced onion and green bell pepper are stir-fried with sausage or ham."
+    },
+    {
+      "question": "Why should the spicy miso udon soup not be allowed to boil during preparation?",
+      "answer": "The soup should not boil because high temperatures can destroy the delicate flavors, especially those from the katsuobushi."
+    },
+    {
+      "question": "What ingredients are added to the soup along with the cooked noodles near the end of the spicy miso udon recipe?",
+      "answer": "Miso paste, honey, and Tabasco sauce are added along with the cooked noodles."
+    },
+    {
+      "question": "How long should the dough rise before it is divided into pieces when making steamed buns with BBQ pork?",
+      "answer": "The dough should rise in a warm place for 1½ hours before being divided."
+    },
+    {
+      "question": "How long are the filled buns steamed when cooking steamed buns with BBQ pork?",
+      "answer": "The filled buns are steamed for 20 minutes over boiling water."
+    },
+    {
+      "question": "How long should the pork be marinated when preparing steamed pork with mustard greens?",
+      "answer": "The pork should be marinated for about 20 minutes."
+    },
+    {
+      "question": "How long are the mustard greens boiled before being drained and cut when preparing steamed pork with mustard greens?",
+      "answer": "The mustard greens are boiled for about 2 minutes."
+    },
+    {
+      "question": "How long should sweet glutinous rice be soaked before steaming?",
+      "answer": "The sweet glutinous rice should be soaked for 6 hours or overnight."
+    },
+    {
+      "question": "How long is the rice steamed when making steamed sweet rice?",
+      "answer": "The rice is steamed for about 30 minutes."
+    },
+    {
+      "question": "How long should the dough rise before filling when making steamed tuna bao buns?",
+      "answer": "The dough should rise for around 2 hours until it no longer bounces back when poked."
+    },
+    {
+      "question": "What ingredients are combined to make the filling for steamed tuna bao buns?",
+      "answer": "The filling is made by combining canned tuna, pineapple pieces, peanuts, seasoning powder, barbecue sauce, optional pineapple juice, and spicy mustard."
+    },
+    {
+      "question": "How long should the shiitake mushrooms be soaked when preparing sukiyaki?",
+      "answer": "The shiitake mushrooms should be soaked in warm water for 15 minutes."
+    },
+    {
+      "question": "What ingredients are commonly added to the skillet along with beef in sukiyaki?",
+      "answer": "Common ingredients include napa cabbage, green onions, firm tofu, shiitake mushrooms, spinach, and shirataki noodles."
+    },
+    {
+      "question": "What ingredients are used to make the seasoned vinegar mixture (sushisu) for sushi rice?",
+      "answer": "The sushisu is made from rice vinegar, sugar, and sea salt."
+    },
+    {
+      "question": "How long should the rice simmer when cooking sushi rice after the water reaches a boil?",
+      "answer": "The rice should simmer for 20 minutes."
+    },
+    {
+      "question": "How long should the pork be marinated before cooking sweet and sour Chinese pork?",
+      "answer": "The pork should be marinated for about 2 hours or overnight."
+    },
+    {
+      "question": "What ingredients are used to prepare the marinade for sweet and sour Chinese pork?",
+      "answer": "The marinade includes dry sherry or Chinese rice wine, soy sauce, and cornstarch."
+    },
+    {
+      "question": "How is the taro prepared before being mashed in the taro fish recipe?",
+      "answer": "The taro is peeled, chopped into 1-inch chunks, and steamed until soft."
+    },
+    {
+      "question": "What ingredients are stir-fried to create the sauce for the taro fish dish?",
+      "answer": "Green pepper, ginger, and spring onions are stir-fried, then Shaoxing rice wine and preserved black beans are added."
+    },
+    {
+      "question": "How long are the eggs initially boiled when preparing tea eggs?",
+      "answer": "The eggs are boiled for 3 minutes."
+    },
+    {
+      "question": "How long are the eggs simmered after the shells are cracked in the tea eggs recipe?",
+      "answer": "The eggs are simmered for 1 hour."
+    },
+    {
+      "question": "At what temperature should the oil be heated for frying tempura?",
+      "answer": "The oil should be heated to about 340–350°F (171–176°C)."
+    },
+    {
+      "question": "What ingredients are used to prepare the tempura batter?",
+      "answer": "The batter is made from ice cold water, all-purpose flour, and a beaten egg."
+    },
+    {
+      "question": "How long should the salmon steaks be grilled on each side in the teriyaki grilled salmon steaks recipe?",
+      "answer": "The salmon steaks should be grilled for 3–4 minutes on each side until flaky."
+    },
+    {
+      "question": "What ingredients are combined to make the teriyaki marinade for the grilled salmon steaks?",
+      "answer": "The marinade is made from canola oil, reduced-sodium soy sauce, water, honey, minced ginger, and minced garlic."
+    },
+    {
+      "question": "How long can the salmon be refrigerated in the marinade in the teriyaki salmon recipe?",
+      "answer": "The salmon can be refrigerated in the marinade for up to 4 hours."
+    },
+    {
+      "question": "How long should the salmon be grilled per side when cooking teriyaki salmon?",
+      "answer": "The salmon should be grilled for 3–5 minutes per side."
+    },
+    {
+      "question": "What ingredients are used to make traditional teriyaki sauce?",
+      "answer": "Traditional teriyaki sauce is made from soy sauce, mirin, brown sugar, ginger, garlic, and optionally a little sake."
+    },
+    {
+      "question": "How should teriyaki sauce be prepared to dissolve the sugar?",
+      "answer": "The ingredients should be mixed in a pot over low heat until the sugar dissolves."
+    },
+    {
+      "question": "How long should the eggs be cooked when preparing marinated eggs for tonkotsu ramen?",
+      "answer": "The eggs should be cooked for 7–9 minutes depending on the desired firmness."
+    },
+    {
+      "question": "How long should the pork bones simmer when preparing the broth for tonkotsu ramen?",
+      "answer": "The pork bones should simmer for 6 hours or more."
+    },
+    {
+      "question": "How long should wontons be cooked in the broth when preparing wonton soup?",
+      "answer": "The wontons should be cooked for about 3 minutes."
+    },
+    {
+      "question": "What ingredients are suggested for the filling in the wonton soup recipe?",
+      "answer": "Suggested filling ingredients include meat or poultry (such as chicken or pork), bok choy or celery, broccoli, bean sprouts, bamboo shoots, powdered ginger, and soy sauce."
+    },
+    {
+      "question": "What ingredients are used to make homemade wonton wrappers?",
+      "answer": "Homemade wonton wrappers are made from flour, salt, egg, and water."
+    },
+    {
+      "question": "How long should the wonton wrapper dough be refrigerated before rolling it out?",
+      "answer": "The dough should be refrigerated for 30 minutes to an hour before rolling it out."
+    },
+    {
+      "question": "What ingredients are combined and simmered to create the base mixture for yubesi?",
+      "answer": "Japanese black sugar, soy sauce, and water are combined and simmered until the sugar dissolves."
+    },
+    {
+      "question": "How long should the yubesi dough be heated in the microwave during each heating step?",
+      "answer": "The dough should be heated in the microwave for 30–40 seconds at a time."
+    },
+    {
+  "question": "What defines yōshoku cuisine in Japan and how did it originate?",
+  "answer": "Yōshoku is a style of Western-influenced Japanese cooking that originated during the Meiji Restoration, consisting of Japanized versions of European dishes adapted to local tastes."
+},
+{
+  "question": "How did the Meiji Restoration influence the development of yōshoku cuisine?",
+  "answer": "During the Meiji Restoration, Japan lifted its ban on red meat and embraced Western ideas, leading to the adoption of meat-based dishes and Western cooking techniques, which were adapted by Japanese chefs into yōshoku."
+},
+{
+  "question": "What are the five fundamental taste elements in Vietnamese cuisine?",
+  "answer": "Vietnamese cuisine is based on five fundamental tastes: sweet, salty, bitter, sour, and spicy, which reflect a balance in flavor and nutrition."
+},
+{
+  "question": "How did French influence shape Vietnamese cuisine?",
+  "answer": "The French introduced ingredients and dishes such as baguettes, coffee, dairy products, and items like pâté and croissants, which were adapted into Vietnamese cuisine, most notably in dishes like bánh mì."
+},
+{
+  "question": "What is gua bao and why is it nicknamed 'tiger bites pig'?",
+  "answer": "Gua bao is a Taiwanese snack made with meat and fillings inside a folded steamed bun, traditionally with pork belly. It is nicknamed 'tiger bites pig' because the bun resembles a tiger’s mouth holding a piece of pork."
+},
+{
+  "question": "Why is niu rou mian considered an important dish in Taiwan?",
+  "answer": "Niu rou mian is considered a national dish in Taiwan because of its popularity and cultural significance, and it is celebrated through an annual festival where chefs and restaurants compete to make the best version."
+},
+{
+  "question": "What is the main difference between southern and northern Chinese cuisine in terms of staple foods?",
+  "answer": "Southern Chinese cuisine primarily uses rice as its staple carbohydrate due to its warm and rainy climate, while northern Chinese cuisine relies more on wheat-based foods like noodles, dumplings, and bread."
+},
+{
+  "question": "What is 'wok hei' and why is it important in Chinese cooking?",
+  "answer": "'Wok hei' refers to the unique smoky, caramelised flavor achieved through stir-frying ingredients at high heat in a wok, and it is considered essential for creating authentic and flavorful Chinese dishes."
+},
+{
+  "question": "What are the staple components of a traditional South Korean meal?",
+  "answer": "A traditional South Korean meal typically includes rice and kimchi as staples, accompanied by side dishes called banchan and main dishes such as soups, noodles, or meat like bulgogi."
+},
+{
+  "question": "How has delivery culture developed in South Korea?",
+  "answer": "Delivery culture in South Korea began during the Joseon era and has evolved into a highly advanced system, with fast and affordable delivery services using scooters and motorcycles to transport food and other items."
+},
+{
+  "question": "What is shippoku cuisine and what cultural influences does it combine?",
+  "answer": "Shippoku cuisine is a Japanese culinary style influenced mainly by Chinese cuisine, and it combines elements of European, Chinese, and Japanese cooking, making it a fusion or hybrid cuisine."
+},
+{
+  "question": "Where and how did shippoku cuisine originate in Japan?",
+  "answer": "Shippoku cuisine originated in Nagasaki during the Edo period, influenced by Chinese immigrants and foreign residents who lived there during Japan’s period of isolation."
+},
+{
+  "question": "What are the main cultural influences on Sakhalin Korean cuisine?",
+  "answer": "Sakhalin Korean cuisine is influenced by both Korean and Russian cuisines, reflecting the history of Korean migrants living on Sakhalin Island in Russia."
+},
+{
+  "question": "How did Sakhalin Korean cuisine influence local Russian food culture?",
+  "answer": "Sakhalin Korean cuisine introduced ingredients like seaweed, kelp, and squid to local Russians, who began consuming, preparing, and selling them after previously considering them inedible."
+},
+{
+  "question": "How does Okinawan cuisine differ from mainland Japanese cuisine?",
+  "answer": "Okinawan cuisine differs from mainland Japanese cuisine because it has been shaped by Chinese, Southeast Asian, Japanese, and later American influences, and it uses ingredients such as sweet potato, bitter melon, pork, seaweed, and turmeric in distinctive ways."
+},
+{
+  "question": "What staple food played a major role in Okinawa before being replaced by rice and wheat flour?",
+  "answer": "Sweet potato was the major staple food in Okinawa from its introduction in 1605 until the mid-20th century, before being largely replaced by rice and wheat flour."
+},
+{
+"question": "What are the staple foods in traditional North Korean cuisine?",
+"answer": "Traditional North Korean cuisine is centered on staple foods such as rice and kimchi, which are commonly served with side dishes and main dishes like porridge, grilled meat, or noodles."
+},
+{
+"question": "What is the most popular dish in North Korean cuisine and how is it typically served?",
+"answer": "The most popular dish in North Korean cuisine is raengmyŏn, especially P'yŏngyang-raengmyŏn, which is typically served as cold buckwheat noodles in a chilled broth with toppings such as pickled radish and egg."
+},
+{
+"question": "What seasonings are especially characteristic of Nagoya cuisine?",
+"answer": "Nagoya cuisine is especially known for seasonings such as hatchō miso, mame miso, and tamari, which give many of its dishes a distinctive regional flavor."
+},
+{
+"question": "What is Taiwan ramen and why is it significant in Nagoya cuisine?",
+"answer": "Taiwan ramen is a spicy soy sauce-based ramen topped with ground pork, garlic, chili pepper, and vegetables, and it is significant because it is one of Nagoya’s best-known Asian-inspired local dishes, created there by a Taiwanese chef in the 1970s."
+},
+{
+"question": "What influences shape Koryo-saram cuisine?",
+"answer": "Koryo-saram cuisine is shaped by traditional Korean cuisine—especially from the Hamgyong region of present-day North Korea—as well as by the cuisines of the various countries in the former Soviet Union where Koryo-saram communities have lived."
+},
+{
+"question": "How has Koryo-saram cuisine adapted to local conditions?",
+"answer": "Koryo-saram cuisine has adapted by using locally available ingredients and adjusting to regional dietary restrictions and tastes—for example, reducing the use of pork or seafood in certain areas and lowering the level of spiciness to suit local preferences."
+},
+{
+"question": "What is Korean temple cuisine and what are its origins?",
+"answer": "Korean temple cuisine is a style of food that originated in Buddhist temples in Korea, shaped by Buddhist traditions and practices since ancient times, particularly during periods like the Silla and Goryeo dynasties."
+},
+{
+"question": "What ingredients are typically avoided in Korean temple cuisine and why?",
+"answer": "Korean temple cuisine typically avoids ingredients from the Allium family, such as garlic and scallions, as well as fermented seafood like jeotgal, because these foods are traditionally avoided by Buddhist monks and nuns for spiritual and dietary reasons."
+},
+{
+"question": "What was the typical structure of a royal meal in Korean royal court cuisine?",
+"answer": "A typical royal meal in Korean royal court cuisine included rice, soup, stews, kimchi, sauces, and numerous side dishes, with twelve dishes traditionally served alongside the main components."
+},
+{
+"question": "How did Korean royal court cuisine reflect the status of the Joseon royal family?",
+"answer": "Korean royal court cuisine reflected royal status through its elaborate variety, the use of the finest ingredients gathered from all provinces, and the complex preparation and service of multiple carefully arranged dishes in bronzeware."
+},
+{
+"question": "What factors have historically shaped the differences among Korean regional cuisines?",
+"answer": "Korean regional cuisines were historically shaped by provincial boundaries, local climate, agriculture, natural ingredients, and limited transportation, which allowed each region to preserve its own distinctive dishes and cooking styles."
+},
+{
+"question": "How does Korean regional cuisine differ between the northern and southern regions?",
+"answer": "Northern regional cuisines tend to feature dishes based on grains like millet, buckwheat, corn, and potatoes with generally plainer flavors, while southern regional cuisines are known for richer, more elaborate dishes and greater use of seafood, seasonings, and diverse ingredients."
+},
+{
+"question": "What is Korean–Mexican fusion cuisine?",
+"answer": "Korean–Mexican fusion is a style of cuisine that originated in Los Angeles and combines Korean ingredients and flavors, such as Korean barbecue and kimchi, with Mexican or Tex-Mex dishes like tacos and burritos."
+},
+{
+"question": "What are some typical dishes in Korean–Mexican fusion cuisine?",
+"answer": "Typical dishes in Korean–Mexican fusion cuisine include Korean tacos, bulgogi burritos, and other Mexican-style foods filled with Korean barbecue meats, kimchi, or spicy chicken."
+},
+{
+"question": "What are the core ingredients and components of traditional Korean cuisine?",
+"answer": "Traditional Korean cuisine is centered on rice, vegetables, seafood, and meats, with meals typically accompanied by banchan such as kimchi and seasoned with ingredients like sesame oil, doenjang, soy sauce, garlic, ginger, gochugaru, and gochujang."
+},
+{
+"question": "Why is kimchi considered such an essential part of Korean cuisine?",
+"answer": "Kimchi is essential to Korean cuisine because it is served at nearly every meal, has many regional and seasonal variations, and represents Korea’s long tradition of fermentation and food preservation."
+},
+{
+"question": "What is Korean Chinese cuisine and how did it originate?",
+"answer": "Korean Chinese cuisine is a hybrid cuisine developed by ethnic Chinese communities in Korea during the 19th century, particularly in Incheon. It blends traditional Chinese cooking styles—especially from Shandong—with Korean ingredients and flavors, creating distinct dishes unique to Korea."
+},
+{
+"question": "What are the three most popular dishes in Korean Chinese cuisine?",
+"answer": "The three most popular Korean Chinese dishes are jajangmyeon (noodles with black bean sauce), jjamppong (spicy seafood noodle soup), and tangsuyuk (sweet and sour fried meat)."
+},
+{
+"question": "What are the fundamental characteristics of Korean cuisine?",
+"answer": "Korean cuisine is based on a combination of rice or noodles, vegetables, and meat, flavored with ingredients and techniques such as chili, sesame oil, fermented bean paste, soy sauce, garlic, ginger, fermentation, and pickling."
+},
+{
+"question": "What is the role of banchan in Korean meals?",
+"answer": "Banchan refers to a variety of small side dishes served communally alongside rice and a main dish, forming a central part of Korean dining and emphasizing shared eating and diverse flavors."
+},
+{
+"question": "What are the two meanings of the term kaiseki in Japanese cuisine?",
+"answer": "Kaiseki can refer to either a formal banquet-style meal served on individual trays, written as 会席料理, or a simple meal served before a Japanese tea ceremony, written as 懐石料理 and also called cha-kaiseki."
+},
+{
+"question": "What are the key principles of modern kaiseki cuisine?",
+"answer": "Modern kaiseki emphasizes seasonal and local ingredients, careful preparation to highlight natural flavors, and artistic presentation that balances taste, texture, appearance, and color."
+},
+{
+"question": "What does the term kyōdo ryōri refer to in Japanese cuisine?",
+"answer": "Kyōdo ryōri refers to the wide variety of regional specialties in Japanese cuisine, many of which originated from traditional recipes and local ingredients specific to different parts of Japan."
+},
+{
+"question": "How do udon broths typically differ between eastern and western Japan?",
+"answer": "In eastern Japan, udon broth is typically darker and heavier with more dark soy sauce, while in western Japan it relies more on dashi flavoring with a lighter touch of soy sauce."
+},
+{
+"question": "What is the traditional structure of a Japanese meal described as ichijū-sansai?",
+"answer": "Ichijū-sansai means 'one soup, three sides' and refers to a traditional Japanese meal built around steamed rice, one soup, and three accompanying side dishes."
+},
+{
+"question": "Why did sushi originally develop in Japan?",
+"answer": "Sushi originally developed as a way to preserve fish by fermenting it with boiled rice, using lactic acid fermentation to prevent spoilage."
+},
+{
+          "question": "What is Japanese Chinese cuisine (chūka ryōri)?",
+          "answer": "Japanese Chinese cuisine, or chūka ryōri, is a fusion style of cooking in Japan that adapts Chinese dishes using Japanese ingredients and flavor preferences."
+        },
+        {
+          "question": "Which popular Japanese Chinese dish is adapted from Sichuan cuisine but made milder in Japan?",
+          "answer": "Mābō-dōfu is a popular dish adapted from Sichuan cuisine that is made less spicy and milder to suit Japanese tastes."
+        },
+        {
+          "question": "What does the word 'bento' mean and what does a typical bento box contain?",
+          "answer": "Bento means 'convenient' and typically contains a variety of foods such as rice, meat or fish, and salad, arranged separately in a compartmentalized container."
+        },
+        {
+          "question": "Why is temperature important when serving sushi rice?",
+          "answer": "Sushi rice is traditionally served at body temperature because it maintains the ideal texture and flavor, whereas cooler rice becomes mushy and loses its seasoning balance."
+        },
+        {
+          "question": "What does the term 'itameshi' refer to in Japanese cuisine?",
+          "answer": "Itameshi refers to a fusion cuisine that combines elements of Japanese and Italian food, with the name derived from 'Itaria' (Italy) and 'meshi' (meal)."
+        },
+        {
+          "question": "Why did Italian cuisine become more popular in Japan during the 1990s?",
+          "answer": "Italian cuisine became more popular during the 1990s because the Asian financial crisis led many upscale restaurants and chefs to adopt Italian food as a more affordable alternative."
+        },
+        {
+"question": "How did Hawaiian cuisine become a blend of many different culinary traditions?",
+"answer": "Hawaiian cuisine developed by combining Native Hawaiian food traditions with influences from European, American, Chinese, Korean, Japanese, Filipino, Portuguese, Puerto Rican, and other immigrant cuisines brought to the islands over time."
+},
+{
+"question": "What is Spam musubi in Hawaiian cuisine?",
+"answer": "Spam musubi is a popular Hawaiian snack made with a slice of fried Spam placed on top of rice and wrapped with a strip of nori."
+},
+{
+"question": "Why is refrigerated leftover rice recommended for fried rice?",
+"answer": "Refrigerated leftover rice works well for fried rice because it is easier to fry without becoming mushy."
+},
+{
+"question": "When should bean sprouts and onions be added while cooking fried rice?",
+"answer": "Bean sprouts and onions should be added when the rice is almost done, so they do not become overcooked."
+},
+{
+"question": "How are cream cheese wontons shaped before frying?",
+"answer": "Cream cheese wontons are shaped by placing filling on a wrapper, folding it into a triangle, and sealing the edges with water."
+},
+{
+"question": "Why should small gaps be left at the corners of wonton wrappers?",
+"answer": "Small gaps are left at the corners to prevent the wontons from expanding and bursting during frying."
+}
+
+]

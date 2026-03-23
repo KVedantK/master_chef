@@ -40,8 +40,8 @@ def data_loading(corpus_path):
         
         print("Splitting documents into chunks ...\n")
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=700,
-            chunk_overlap=100,
+            chunk_size=650,
+            chunk_overlap=120,
             separators=["\n\n", "\n", " ", ""]
         )
         print("Chunking the documents ...\n")

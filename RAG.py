@@ -13,46 +13,27 @@ from sentence_transformers import CrossEncoder
 
 VECTOR_STORE_PATH = "./Vector_Storage_MasterChef"   
 SYSTEM_PROMPT = """
-You are a precise and reliable assistant for question answering using retrieved context on East Asian cuisine.
+You are a helpful Culinary Assistant assigned with task to answer queries regarding east asian cuisine.
+You are provided all the knowledge required to answer the query.
 
-You must follow these rules strictly:
+- Answer the query based on knowledge in the context only.
+- If answer is not found in the context say 'I dont know the answer'
+- Do not miss on the facts in context that matches the main topic of the query
+- Read the full context before generating the answer
+- Be ready to get confusing questions using synonym terms that may be in the context feel free to match such semantically and answer
 
-1. SOURCE OF TRUTH
-- Use ONLY the provided context to answer.
-- Do NOT use prior knowledge.
-- If the answer is not present or cannot be derived from the context, say:
-  "I don’t know based on the provided context."
+Some Tone instructions:
+- Be precise and to the point do not include unwanted noise like chattering in the response.
+- Once ready phrase the answer like you are answering a human being addressing their query
+- NEVER AT ALL MAKE UP AN ANSWER its okay to say you dont know or to reply something based on the context but not to make up an answer
+Some Tips:
+- For questions asking what is used, Which Oil / sauce / fruit / vegetable / meat is used -- refer the ingridients in the context.
+- For questions asking procedures, receipe look for procedures in the context.
+- For fact based question check the direct answer first in the context else go to derive it.
 
-2. DERIVED ANSWERS (IMPORTANT)
-- If the answer requires simple reasoning or transformation (e.g., math, unit conversion, aggregation, comparison),
-  you MUST compute it using the context.
-- Do not include explanantions for this in final answer be accurate in calculations
-- Always prefer a derived correct answer over copying incomplete information.
-
-3. ACCURACY OVER COPYING
-- Do NOT blindly copy text from context.
-- Ensure the answer directly matches the user’s question.
-- If context gives related but incomplete data, transform it to fully answer the question.
-
-4. MULTIPLE SOURCES
-- If multiple pieces of context are relevant, combine them carefully.
-- Resolve conflicts by prioritizing the most explicit or detailed information.
-
-5. NO HALLUCINATION
-- Do NOT guess or assume missing values.
-- If a key value is missing, say you don’t know.
-
-6. ANSWER STYLE
-- Be clear and concise.
-- Include reasoning steps ONLY when calculation or transformation is required.
-- Always include a short citation or reference from the context (e.g., source, title, or snippet).
-
-7. FORMAT
-Final Answer:
-<your answer>
-
-Source:
-<reference from context>
+Output format:
+Final Answer: <answer>
+Source: <source name>
 
 """
 
@@ -73,7 +54,7 @@ vector_store = Chroma(
 
 retriever = vector_store.as_retriever(
     search_type="mmr",
-    search_kwargs={'k':5, 'fetch_k': 20, 'lambda_mult': 0.5}
+    search_kwargs={'k':5, 'fetch_k' : 20, 'lambda_mult' : 0.25}
 )
 
 reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
@@ -81,9 +62,8 @@ reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
 def get_response(query):
 
-    similarity_search_results = vector_store.similarity_search(query, k=5)
+    similarity_search_results = vector_store.similarity_search(query, k=10)
     retriever_results = retriever.invoke(query)
-    
 
     merged_docs = similarity_search_results + retriever_results  # Combine both retrievals for richer context
     seen = set()
@@ -93,7 +73,7 @@ def get_response(query):
         if text not in seen:
             seen.add(text)
             unique_merged_docs.append(doc)
-    sources = [doc.metadata.get("source", "Unknown Source") for doc in unique_merged_docs]
+
     pairs = [(query, doc.page_content) for doc in unique_merged_docs]
     scores = reranker.predict(pairs)
 
@@ -103,27 +83,44 @@ def get_response(query):
         reverse=True
     )
 
-    top_docs = [doc for doc, score in ranked_docs[:5]]
-    context = "\n\n".join([doc.page_content for doc in top_docs])
+    top_docs = [doc for doc, score in ranked_docs[:3]]
+    sources = {
+        doc.metadata.get("cuisine_name", doc.metadata.get("source", "Unknown Source"))
+        for doc in top_docs
+    }
+    context_parts = []
+    for i, doc in enumerate(top_docs, 1):
+        title = doc.metadata.get("cuisine_name", "Unknown Title")
+        source = doc.metadata.get("source", "Unknown Source")
+        content = doc.page_content.strip()
+
+        context_parts.append(
+            f"main topic: {title}\n"
+            f"Content:\n{content}"
+            f"Source: {source}\n"
+        )
+
+    context = "\n\n".join(context_parts)
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"}
+        {"role": "user", "content": f"""Question: {query} 
+         Context:\n{context} 
+         Once you are ready with answer check if it answers the query, if yes then respond if not just try going through again"""}
     ]
     
-
     text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 
 
     generated_ids = model.generate(
         **model_inputs,
-        max_new_tokens=512,
-        temperature=0.1 
+        max_new_tokens=500,
+        temperature=0.1,
+        do_sample = True,
     )
     
     response = tokenizer.batch_decode(
         [out[len(in_ids):] for in_ids, out in zip(model_inputs.input_ids, generated_ids)],
         skip_special_tokens=True
     )[0]
-
-    return response.strip(), set(sources)
+    return response.strip(), set(sources), top_docs

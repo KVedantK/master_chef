@@ -1,0 +1,698 @@
+[
+  {
+    "question": "How long are the filled buns steamed when cooking steamed buns with BBQ pork?",
+    "answer": "The steaming time for steamed buns with BBQ pork can vary depending on the specific recipe. Generally, it's common to steam them for about 20 minutes. However, some recipes might require longer steaming times due to the thickness of the buns or the type of fillings. It's best to check the specific instructions for each recipe to determine the exact duration.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "How long should the pork be marinated when preparing steamed pork with mustard greens?",
+    "answer": "The pork should be marinated for about 20 minutes, stirring occasionally.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long are the mustard greens boiled before being drained and cut when preparing steamed pork with mustard greens?",
+    "answer": "The mustard greens should be boiled for about 4-5 minutes before draining and cutting.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How long should sweet glutinous rice be soaked before steaming?",
+    "answer": "The soaking time for sweet glutinous rice should ideally be 6 hours or overnight. This allows the rice to absorb enough moisture from the water to cook properly without becoming mushy.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long is the rice steamed when making steamed sweet rice?",
+    "answer": "The recipe states \"Soak for 6 hours or overnight.\" This means the rice should be soaked for at least 6 hours or more before steaming.",
+    "correctness": 1,
+    "relevance": 2,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the dough rise before filling when making steamed tuna bao buns?",
+    "answer": "The dough should be allowed to rise in a warm place for 1½ hours.",
+    "correctness": 2,
+    "relevance": 5,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What ingredients are combined to make the filling for steamed tuna bao buns?",
+    "answer": "The filling for steamed tuna bao buns includes tuna and pineapple.",
+    "correctness": 2,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "How long should the shiitake mushrooms be soaked when preparing sukiyaki?",
+    "answer": "The correct answer is 15 minutes. The context states \"Soak the mushrooms in warm water for 15 minutes.\"",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What ingredients are commonly added to the skillet along with beef in sukiyaki?",
+    "answer": "Based on the information provided:\n\nThe common ingredients added to the skillet along with beef in sukiyaki are:\n\n- Pork\n- Goat\n- Pineapple\n- Papaya\n- Mango\n- Passion fruit\n- Guava\n- Citrus fruit\n- Soy sauce\n- Mirin\n- Gochujang (Korean chili paste)\n- Shichimi seasoning\n- Ginger\n- Steamed rice\n\nThese are the primary ingredients typically used in sukiyaki dishes.",
+    "correctness": 1,
+    "relevance": 1,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What ingredients are used to make the seasoned vinegar mixture (sushisu) for sushi rice?",
+    "answer": "The ingredients used to make the seasoned vinegar mixture (sushisu) for sushi rice are:\n\n- Vinegar\n- Sugar\n- Salt\n\nThese three ingredients are mixed together according to the recipe instructions provided in Document 1.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the rice simmer when cooking sushi rice after the water reaches a boil?",
+    "answer": "The rice should remain in the cooking pot submerged in its cooking water for 30 minutes.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How long should the pork be marinated before cooking sweet and sour Chinese pork?",
+    "answer": "The pork should be marinated for at least 20 minutes before cooking.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What ingredients are used to prepare the marinade for sweet and sour Chinese pork?",
+    "answer": "Based on the information provided in the context:\n\nThe ingredients used to prepare the marinade for sweet and sour Chinese pork are:\n\n1. American's cut pork (boneless loin roast)\n2. 1-inch squares and pounded flat\n3. Cornstarch\n4. Soy sauce\n5. Rice vinegar\n6. Sugar\n7. Ginger\n8. Garlic\n9. Cilantro (optional)\n\nSo the final answer is:\n\nIngredients: American's cut pork (boneless loin roast), 1-inch squares and pounded flat, cornstarch, soy sauce, rice vinegar, sugar, ginger, garlic, cilantro (optional).",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "How is the taro prepared before being mashed in the taro fish recipe?",
+    "answer": "The taro is mashed with the vegetable stock powder before being rolled into nori sheets. The nori sheets are then placed on a bench and moistened to join them together. The mashed taro mixture is then placed in the center of the nori sheets and rolled over them. This process creates a flat surface for slicing and cutting the nori sheets.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What ingredients are stir-fried to create the sauce for the taro fish dish?",
+    "answer": "Based on the information provided:\n\nThe ingredients used in the taro fish dish are rice wine, white pepper, cornstarch, soy sauce, garlic, ginger, shallots, baby corn, sugar snap peas, carrots, broccoli, bamboo shoots, red capsicum, and shiitake mushrooms.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How long are the eggs initially boiled when preparing tea eggs?",
+    "answer": "The eggs are initially boiled for 3 minutes.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long are the eggs simmered after the shells are cracked in the tea eggs recipe?",
+    "answer": "The eggs are simmered for about 1 hour after the shells are cracked.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "At what temperature should the oil be heated for frying tempura?",
+    "answer": "At 340-350°F (171-176°C), the oil should be heated for frying tempura.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What ingredients are used to prepare the tempura batter?",
+    "answer": "The main ingredient used to prepare tempura batter is flour. The context mentions that flour is used as an ingredient in the preparation process of tempura.",
+    "correctness": 2,
+    "relevance": 4,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "How long should the salmon steaks be grilled on each side in the teriyaki grilled salmon steaks recipe?",
+    "answer": "The salmon steaks should be grilled on both sides for about 3-4 minutes per side until they are flaky.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What ingredients are combined to make the teriyaki marinade for the grilled salmon steaks?",
+    "answer": "The ingredients used in the teriyaki marinade for the grilled salmon steaks are:\n\n- 5 ea. (15 ounces / 425 g) salmon steaks\n- 2 tbsp black pepper\n- 1 tbsp canola oil\n- 2 tbsp reduced-sodium soy sauce\n- ¼ cup water\n- 1 tbsp honey\n- 2 tbsp minced ginger\n- 2 tbsp minced garlic\n\nThese ingredients are combined to create the teriyaki marinade for the salmon steaks.",
+    "correctness": 2,
+    "relevance": 4,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "How long can the salmon be refrigerated in the marinade in the teriyaki salmon recipe?",
+    "answer": "The salmon should be refrigerated in the marinade for about 4 hours.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the salmon be grilled per side when cooking teriyaki salmon?",
+    "answer": "The recipe for Teriyaki Grilled Salmon Steaks does not specify how long to grill each side. The information provided in Document 3 does not contain this detail. Therefore, I cannot provide an accurate answer based solely on the given context.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What ingredients are used to make traditional teriyaki sauce?",
+    "answer": "Traditional Teriyaki Sauce typically includes soy sauce, mirin, brown sugar, and sometimes other seasonings like garlic powder, ginger, and sesame oil.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "How should teriyaki sauce be prepared to dissolve the sugar?",
+    "answer": "To prepare teriyaki sauce, mix everything in a 1-quart pot over low heat until the sugar dissolves.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the eggs be cooked when preparing marinated eggs for tonkotsu ramen?",
+    "answer": "The eggs should be cooked for 7-9 minutes.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the pork bones simmer when preparing the broth for tonkotsu ramen?",
+    "answer": "Pork bones should be simmered for 2 hours.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "How long should wontons be cooked in the broth when preparing wonton soup?",
+    "answer": "The correct answer is 3 minutes.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What ingredients are suggested for the filling in the wonton soup recipe?",
+    "answer": "The main ingredient suggested for the filling in the wonton soup recipe is soy sauce.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What ingredients are used to make homemade wonton wrappers?",
+    "answer": "The ingredients used to make homemade wonton wrappers are flour, salt, water, and eggs.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How long should the wonton wrapper dough be refrigerated before rolling it out?",
+    "answer": "The won Ton wrapper dough should be refrigerated for at least 30 minutes to an hour before rolling it out.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What ingredients are combined and simmered to create the base mixture for yubesi?",
+    "answer": "The ingredients used in creating the base mixture for YubiSemi are dashi, miso, and soy sauce. The dish also includes garnishes such as finely sliced and deep-fried tofu (agedashi tofu) and cubed raw silky tofu (recommended).",
+    "correctness": 1,
+    "relevance": 1,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How long should the yubesi dough be heated in the microwave during each heating step?",
+    "answer": "The YubiSushi dough should be heated in the microwave for 2 minutes at medium-high power.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What defines yōshoku cuisine in Japan and how did it originate?",
+    "answer": "Yōshoku cuisine in Japan is defined by its fusion of traditional Japanese culinary techniques with elements from Western cultures. The term \"yōshoku\" originates from the Meiji Restoration period, where Japan adopted Western influences. This style of cooking emerged after the end of Japan's isolationist policies and the rapid influx of Western technology and ideas. The origins can be traced back to the early 19th century, with the introduction of Western cooking methods and ingredients into Japanese kitchens. Today, yōshoku cuisine is characterized by its use of Western ingredients, names, and cooking techniques, reflecting the blending of Eastern and Western culinary traditions.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "How did the Meiji Restoration influence the development of yōshoku cuisine?",
+    "answer": "The Meiji Restoration had a significant impact on the development of yōshoku cuisine by promoting meat as an ingredient. This change occurred because meat became more accessible due to the abolition of the ban on red meat during this period. Additionally, many Westerners who moved into Japan at that time were accustomed to eating Western-style cuisine, leading to the establishment of local Japanese chefs who could adapt Western techniques to suit their own tastes.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the five fundamental taste elements in Vietnamese cuisine?",
+    "answer": "The five fundamental taste elements in Vietnamese cuisine are:\n\n1. Sweet\n2. Salty\n3. Bitter\n4. Sour\n5. Spicy",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How did French influence shape Vietnamese cuisine?",
+    "answer": "Based on the information provided:\n\nFrench influenced various aspects of Vietnamese cuisine, including:\n\n1. **Dishes**: Many French-influenced dishes were introduced into Vietnamese cuisine, such as:\n   - Sa lát (salad)\n   - Pâté\n   - Patê sô (Britannic pasty called \"pâté chaud\")\n   - Bánh sừng trâu/bánh sừng bò (Croissant)\n   - Bánh flan\n   - Yaua (yogurt)\n   - Rôti (rotisserie)\n   - Bơ (butter)\n   - Vịt nấu cam (duck à l'orange)\n   - Ốp lết (omelette)\n   - Ốp la (œufs au plat)\n   - Phá xí (farcies)\n   - Bít tết (beefsteak)\n   - Sốt vang (cooking with wine)\n   - Dăm bông (jambon)\n   - Ức xích (saucisse)\n\nFrench colonial rule had a significant impact on Vietnamese cuisine, influencing both traditional and modern dishes. This can be seen in the use of chili peppers and shrimp sauces, which are common in Vietnamese cuisine today. Additionally, some Vietnamese signature dishes, such as bún bò Huế and bánh khoái, reflect this influence.\n\nThe French Indochinese countries of Laos, Vietnam, and Cambodia have also contributed to Vietnamese cuisine, particularly in the areas of cooking techniques and regional specialties.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What is gua bao and why is it nicknamed 'tiger bites pig'?",
+    "answer": "Gua bao is a traditional Taiwanese snack consisting of a piece of meat and other fillings inside a steamed flat white bun in a clam shape. The most common filling is pork belly, but other options like fried chicken, seafood, eggs, and beef can also be used. The nickname \"tiger bites pig\" refers to the bun's unique shape, which creates a tiger-like mouth when opened. This nickname comes from the bun's creation process, where the meat is placed between two layers of bread, creating a tiger-shaped opening. The dish is often served with rice wine, garlic, white pepper, ginger, sugar, and five spices.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "Why is niu rou mian considered an important dish in Taiwan?",
+    "answer": "I don't the answer\n\nContext: The concept of \"niu rou mian\" (Taiwanese rice noodle soup) is believed to have originated in Taiwan and has become an important national dish. However, the specific reasons why it's considered an important dish in Taiwan are not widely documented or discussed in the given context.",
+    "correctness": 2,
+    "relevance": 3,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What is the main difference between southern and northern Chinese cuisine in terms of staple foods?",
+    "answer": "The main difference between southern and northern Chinese cuisine lies in the staple foods they rely on most heavily. In southern China, rice is the primary staple food, while in northern China, wheat is the dominant ingredient.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What is 'wok hei' and why is it important in Chinese cooking?",
+    "answer": "The term \"wok hei\" refers to the delicious caramelized taste that basic ingredients take on when cooked in the manner, even without any other flavorings. It's an important concept in Chinese cooking because it highlights the unique flavors and textures that come from slow cooking methods.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What are the staple components of a traditional South Korean meal?",
+    "answer": "The staple components of a traditional South Korean meal include rice, kimchi, and various side dishes like panch'an and main courses like chuk (porridge), pulgogi (grilled meat), or myŏn (noodles).",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How has delivery culture developed in South Korea?",
+    "answer": "The delivery culture in South Korea has evolved significantly over time, becoming more sophisticated and widespread across various aspects of daily life. This cultural shift began during the Joseon era and continues today. Delivery services now handle food, documents, and more, often using scooters and motorcycles for fast transport.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What is shippoku cuisine and what cultural influences does it combine?",
+    "answer": "Shippoku cuisine is a Japanese culinary style that is heavily influenced by Chinese cuisine and is considered a fusion cuisine combining elements of European, Chinese, and Japanese cuisines.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Where and how did shippoku cuisine originate in Japan?",
+    "answer": "Shippoku cuisine originated from Chinese immigrants in Nagasaki, Japan during the Edo period (1603–1868), when the city was a hub for foreign residents during Japan’s period of isolation.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the main cultural influences on Sakhalin Korean cuisine?",
+    "answer": "The main cultural influences on Sakhalin Korean cuisine are Korean and Russian cuisines, reflecting the history of Koreans living on Sakhalin Island in Russia.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How did Sakhalin Korean cuisine influence local Russian food culture?",
+    "answer": "Sakhalin Korean cuisine influenced local Russian food culture by introducing ingredients like seaweed, kelp, and squid, which Russians began consuming, preparing, and selling after previously considering them inedible.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How does Okinawan cuisine differ from mainland Japanese cuisine?",
+    "answer": "Okinawan cuisine differs from mainland Japanese cuisine due to its distinct cultural influences, climate, and ingredients, which have shaped a unique food culture separate from traditional Japanese cuisine.",
+    "correctness": 3,
+    "relevance": 4,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What staple food played a major role in Okinawa before being replaced by rice and wheat flour?",
+    "answer": "The staple food that played a major role in Okinawa before being replaced by rice and wheat flour was sweet potato or taro.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the staple foods in traditional North Korean cuisine?",
+    "answer": "Based on the information provided in the context, some staple foods in traditional North Korean cuisine include:\n\n1. Rice\n2. Seafood (specifically Alaska pollock)\n3. Algae (such as seaweed)\n4. Vegetables (like bell peppers, chamomile flowers, and Chinese cabbage)\n5. Meat (primarily beef)\n\nThese are the main ingredients mentioned in the context, but there might be other lesser-known items depending on regional variations.",
+    "correctness": 2,
+    "relevance": 4,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What is the most popular dish in North Korean cuisine and how is it typically served?",
+    "answer": "Based on the information provided:\n\nThe most popular dish in North Korean cuisine is called naengmyeon (냉면). It's typically served in a big and deep bowl with beef, pheasant, or tongch'imi broth. The source mentions that this dish is often served in a large bowl and is usually accompanied by beef, pheasant, or tongch'imi broth.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What seasonings are especially characteristic of Nagoya cuisine?",
+    "answer": "The seasonings most characteristic of Nagoya cuisine are hachiko miso, mame miso, and tamari. These ingredients are widely used in traditional Nagoya dishes.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "What is Taiwan ramen and why is it significant in Nagoya cuisine?",
+    "answer": "Taiwan ramen is a dish from Taiwan that has gained popularity in Nagoya cuisine. It is known for its spicy flavor and uses ingredients similar to those used in Nagoya cuisine, such as soy sauce-based soups and toppings like ground pork, garlic, and chili pepper powder, along with chives or bean sprouts. The dish originated in Nagoya in the 1970s and has since become a significant part of the local culinary scene in the city.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "What influences shape Koryo-saram cuisine?",
+    "answer": "The influence of Koryo-saram cuisine on other Korean regions can be seen in its adaptation of Korean dishes, particularly those that use ingredients that were readily available in the region. Additionally, the cuisine has been adapted to suit the tastes of local non-Koreans, which further emphasizes its influence on neighboring cultures.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "How has Koryo-saram cuisine adapted to local conditions?",
+    "answer": "Koryo-saram cuisine has adapted to local conditions by using ingredients that are readily available locally, such as seafood and pork. It has also been adjusted to suit the tastes of local non-Korean customers, particularly by reducing the amount of pepper used.",
+    "correctness": 2,
+    "relevance": 5,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What is Korean temple cuisine and what are its origins?",
+    "answer": "Korean temple cuisine originated in Buddhist temples of Korea. It has been influenced by Buddhist traditions since Buddhism was introduced into Korea during the Silla period. The main ingredients include rice, vegetables, and meats. The cuisine reflects the complex interactions between the natural environment and social and political changes in Korea's history.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What ingredients are typically avoided in Korean temple cuisine and why?",
+    "answer": "The ingredients typically avoided in Korean temple cuisine are dairy products, which are absent from the traditional Korean diet. The other ingredients mentioned are rice, vegetables, seafood, and meat. These are commonly used in Korean temple cuisine, but they are not typically avoided.",
+    "correctness": 1,
+    "relevance": 3,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What was the typical structure of a royal meal in Korean royal court cuisine?",
+    "answer": "The typical structure of a royal meal in Korean royal court cuisine typically included twelve dishes, with rice and soup serving as the main course. The dish order was usually arranged as follows:\n\n1. Bangji (bronzeware)\n2. Sogam (soups)\n3. Kibab (grilled pork belly)\n4. Gokje (steamed fish)\n5. Taegeum (rice cake)\n6. Janggak (spicy tofu)\n7. Jisijim (dried shrimp)\n8. Jajangmyeon (fried egg rolls)\n9. Japchae (spiced bean curd)\n10. Jajangmyeon (fried egg rolls)\n11. Jajangmyeon (fried egg rolls)\n12. Jajangmyeon (fried egg rolls)\n\nThis structure reflected the high status and importance of the meals, emphasizing the importance of each dish in ensuring the guests' comfort and satisfaction during the meal.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How did Korean royal court cuisine reflect the status of the Joseon royal family?",
+    "answer": "Based on the context provided, Korean royal court cuisine reflected the status of the Joseon royal family by emphasizing the use of specific ingredients and cooking techniques typical of the time. The cuisine was characterized by its focus on fresh ingredients, high-quality spices, and traditional methods of preparation. This reflects the importance placed on maintaining the prestige and power of the Joseon dynasty during the late 18th century.",
+    "correctness": 2,
+    "relevance": 4,
+    "faithfulness": 2,
+    "groundedness": 2
+  },
+  {
+    "question": "What factors have historically shaped the differences among Korean regional cuisines?",
+    "answer": "Based on the information provided:\n\nHistorical factors shaping Korean regional cuisines include geographic differences due to local climates and agricultural practices, which influenced the selection of local specialties. The modern development of transportation and the introduction of foreign foods has led to more integration and overlapping of regional cuisines.\n\nThe Northern region's emphasis on natural foods further contributes to this trend, as these ingredients can be easily sourced from various parts of Korea.\n\nTherefore, the factors that have historically shaped the differences among Korean regional cuisines include geographical differences, the influence of transportation and foreign foods, and the emphasis on natural foods in the Northern region.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "How does Korean regional cuisine differ between the northern and southern regions?",
+    "answer": "To answer your question about how Korean regional cuisine differs between the northern and southern regions:\n\nThe northern region of Korea is known for its unique and distinct flavors due to its geographical location. It's characterized by hot and spicy dishes, which are often served with rice or noodles. Some popular dishes from this region include:\n\n1. Kimchi - A fermented vegetable dish that's commonly eaten with rice.\n2. Bulgogi (bunbee) - A grilled beef dish marinated in soy sauce and vinegar.\n3. Paengpyeon - A type of noodle soup that's typically served with rice.\n4. Japchae - A stir-fried dish made with pork, vegetables, and sometimes seafood.\n5. Tteokguk - A savory rice bowl filled with various fillings like meat, vegetables, and bean sprouts.\n\nIn contrast, the southern region of Korea is more influenced by Chinese cuisine. Here are some key differences:\n\n1. Spices: Southern Korean cuisine tends to use less chili peppers and more sweet and sour seasonings.\n2. Vegetables: Southern dishes often feature more root vegetables and leafy greens compared to northern ones.\n3. Seafood: While seafood is common, it's usually prepared differently than in northern regions.\n4. Cooking Methods: Southern cooking often involves slow cooking techniques rather than quick frying.\n5. Traditional Dishes: Many southerners prefer dishes like \"sakjeum\" (a type of fish stew) over northern-style dishes.\n\nThese differences reflect the diverse cultural influences and regional variations in Korean cuisine across different parts of the country.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What is Korean–Mexican fusion cuisine?",
+    "answer": "The Korean–Mexican fusion cuisine originated from Los Angeles and features traditional elements of American-style Mexican and Korean foods. It includes dishes like Korean tacos and bulgogi burritos, which are popular among food critics.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are some typical dishes in Korean–Mexican fusion cuisine?",
+    "answer": "Based on the information provided:\n\nThe most common dish in Korean-Mexican fusion cuisine is typically a combination of tacos and bulgogi burritos. These are popular Mexican or Tex-Mex dishes that have been adapted into Korean styles by incorporating barbecued meats and kimchi.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the core ingredients and components of traditional Korean cuisine?",
+    "answer": "The core ingredients and components of traditional Korean cuisine include:\n\n- Rice\n- Vegetables\n- Seafood\n- Meats\n- Fermentation techniques\n- Soy sauce\n- Garlic\n- Ginger\n- Pepper flakes\n- Napa cabbage\n\nThese ingredients are commonly used in various dishes throughout the day, including breakfast, lunch, dinner, and snacks.",
+    "correctness": 4,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "Why is kimchi considered such an essential part of Korean cuisine?",
+    "answer": "The reason kimchi is considered an essential part of Korean cuisine is because it has been consumed regularly since ancient times and is highly valued by Koreans. It's also noted as one of the most important foods in South Korea due to its importance during space missions. The dish is often enjoyed alongside other traditional Korean foods like noodles, rice, and fish.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "What is Korean Chinese cuisine and how did it originate?",
+    "answer": "The Korean Chinese cuisine originated in the port city of Incheon, South Korea, which was the home of the ethnic Chinese population. The cuisine is characterized by its use of Korean flavors and ingredients, reflecting the diverse influences from China. It's notable for its rice-based dishes and the inclusion of pork, which is common in Korean Chinese cuisine. The dish \"myŏn\" (noodles) is often paired with various side dishes, including panch'an (rice porridge) and grilled meats.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What are the three most popular dishes in Korean Chinese cuisine?",
+    "answer": "Based on the information provided in the documents:\n\n1. Palbochae (Eight Treasure Dish) - This is one of the main dishes in Korean Chinese cuisine.\n2. Rajogi (Chili Chicken) - Another popular dish in Korean Chinese cuisine.\n3. Chinese-style Udong (Seafood Noodle Soup) - A traditional dish from Korean Chinese cuisine.\n\nThe three most popular dishes in Korean Chinese cuisine are Palbochae, Rajogi, and Chinese-style Udong.",
+    "correctness": 1,
+    "relevance": 4,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "What are the fundamental characteristics of Korean cuisine?",
+    "answer": "The fundamental characteristics of Korean cuisine include:\n\n1. **Complex Interaction of Natural Environment**: Korean cuisine reflects a complex interaction of the natural environment and various cultural influences.\n   \n2. **Staple Foods**: Key staples in Korean cuisine include rice dishes (such as bibimbap) and kimchi, which are often served with various vegetables and meats.\n\n3. **Vegetable Use**: Vegetables play a significant role in Korean cuisine, with a variety of simple flavorings used to enhance the dish's taste.\n\n4. **Meat Usage**: Meat is an important component of Korean cuisine, particularly in dishes like bibimbap and kimchi.\n\n5. **Fermentation Techniques**: Fermented ingredients and techniques are commonly employed in Korean cuisine, contributing to its unique flavors.\n\n6. **Variety of Ingredients**: The use of a wide range of ingredients, including rice, vegetables, and meat, contributes to the diverse nature of Korean cuisine.\n\n7. **Health Benefits**: Some aspects of Korean cuisine, especially those involving rice and vegetables, are known for their health benefits.\n\nThese elements combine to create a rich and flavorful culinary tradition that is deeply rooted in the Korean culture.",
+    "correctness": 3,
+    "relevance": 5,
+    "faithfulness": 3,
+    "groundedness": 3
+  },
+  {
+    "question": "What is the role of banchan in Korean meals?",
+    "answer": "The role of banchan in Korean meals is to provide a variety of small side dishes that are placed in the center of the table and shared communally. They accompany the main components of the meal, such as rice, soup or stew, and sometimes a meat-based dish, contributing to a diverse and balanced dining experience.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the two meanings of the term kaiseki in Japanese cuisine?",
+    "answer": "The two meanings of the term kaiseki in Japanese cuisine are:\n\n1. A formal set menu of select foods served on individual trays to each guest (written as 会席料理).\n2. A simple meal served before a tea ceremony, prepared by the host (written as 懐石料理, also called cha-kaiseki).",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What are the key principles of modern kaiseki cuisine?",
+    "answer": "The key principles of modern kaiseki cuisine include emphasizing fresh, seasonal, and often local ingredients; preparing dishes in ways that enhance their natural flavors; balancing taste, texture, appearance, and color; and presenting dishes artistically on carefully selected tableware that reflects the season.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What does the term kyōdo ryōri refer to in Japanese cuisine?",
+    "answer": "Kyōdo ryōri refers to regional specialties in Japanese cuisine, consisting of dishes made using traditional recipes and local ingredients specific to different regions of Japan.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How do udon broths typically differ between eastern and western Japan?",
+    "answer": "In eastern Japan, udon broth is typically darker and heavier, with a stronger use of dark soy sauce. In contrast, western Japan uses a lighter broth that emphasizes dashi flavor with only a small amount of light soy sauce.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What is the traditional structure of a Japanese meal described as ichijū-sansai?",
+    "answer": "Ichijū-sansai refers to a traditional Japanese meal structure consisting of one soup and three side dishes, typically served alongside rice.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Why did sushi originally develop in Japan?",
+    "answer": "Sushi originally developed as a method of preserving fish by fermenting it with rice. The fermentation process helped prevent spoilage, allowing the fish to be stored for longer periods.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What is Japanese Chinese cuisine (chūka ryōri)?",
+    "answer": "Japanese Chinese cuisine, or chūka ryōri, is a style of cooking in Japan that adapts Chinese dishes using Japanese ingredients, tastes, and techniques, creating a distinct fusion cuisine.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Which popular Japanese Chinese dish is adapted from Sichuan cuisine but made milder in Japan?",
+    "answer": "The dish is mābō-dōfu, a Japanese adaptation of a Sichuan dish that has been made milder to suit Japanese tastes.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What does the word 'bento' mean and what does a typical bento box contain?",
+    "answer": "The word 'bento' means 'convenient' and refers to a meal packed in a container. A typical bento box contains a variety of foods such as rice, meat or fish, and vegetables or salad, arranged separately in compartments.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Why is temperature important when serving sushi rice?",
+    "answer": "Temperature is important because sushi rice is traditionally served at about body temperature, which preserves its ideal texture and flavor. If it is too cold, the rice becomes mushy and the seasoning loses its balance, negatively affecting the taste.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "What does the term 'itameshi' refer to in Japanese cuisine?",
+    "answer": "In Japanese cuisine, \"itameshi\" refers to a fusion cuisine that combines traditional Japanese ingredients and elements with Italian food. The name comes from \"Itaria\" (Italy) and \"meshi\" (meal).",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Why did Italian cuisine become more popular in Japan during the 1990s?",
+    "answer": "I don't the answer\n\nFinal Answer: I dont the answer",
+    "correctness": 1,
+    "relevance": 1,
+    "faithfulness": 1,
+    "groundedness": 1
+  },
+  {
+    "question": "How did Hawaiian cuisine become a blend of many different culinary traditions?",
+    "answer": "Hawaiian cuisine became a blend of many culinary traditions by combining locally grown ingredients with a fusion of ethnic culinary influences, which chefs later refined into Hawaii regional cuisine.",
+    "correctness": 3,
+    "relevance": 4,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "What is Spam musubi in Hawaiian cuisine?",
+    "answer": "Spam musubi is a popular Hawaiian snack made with a slice of fried Spam placed on a bed of rice and wrapped with a strip of nori.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Why is refrigerated leftover rice recommended for fried rice?",
+    "answer": "Refrigerated leftover rice is recommended for fried rice because it works well in the dish and is less likely to become mushy when fried.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 4,
+    "groundedness": 4
+  },
+  {
+    "question": "When should bean sprouts and onions be added while cooking fried rice?",
+    "answer": "Bean sprouts and onions should be added when the rice is almost done so they do not become overcooked.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "How are cream cheese wontons shaped before frying?",
+    "answer": "Cream cheese wontons are shaped by wetting the two edges nearest the cream cheese, folding the wrapper over to form a triangle, and sealing the edges.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  },
+  {
+    "question": "Why should small gaps be left at the corners of wonton wrappers?",
+    "answer": "Small gaps should be left at the corners to prevent the wontons from expanding too much and bursting during frying.",
+    "correctness": 5,
+    "relevance": 5,
+    "faithfulness": 5,
+    "groundedness": 5
+  }
+]
