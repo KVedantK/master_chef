@@ -5,7 +5,7 @@ import time
 
 
 def extract_urls(main_url):
-    headers = {"User-Agent": "tester"}
+    headers = {"User-Agent": "Master-Chef-App-v1"}
     try:
         response = requests.get(main_url, headers=headers)
         response.raise_for_status()
@@ -51,7 +51,7 @@ def get_links_from_page(url, headers):
 
 def collect_all_data():
     all_extracted_data = []
-    headers = {"User-Agent": "tester"}
+    headers = {"User-Agent": "Master-Chef-App-v1"}
     
     print("Extracting links...")
     wiki_links = extract_urls("https://en.wikipedia.org/wiki/List_of_cuisines")
