@@ -15,15 +15,13 @@ def data_loading(corpus_path):
     try:
         docs = []
 
-        print("Reading Files ...\n")
+        print("Reading Files\n")
         for file_path in Path(corpus_path).glob("**/*.json"):
             with open(file_path, "r", encoding="utf-8") as f:
                 item = json.load(f)
 
-            # Pull metadata from the JSON
             metadata = item.get("metadata", {}).copy()
 
-            # Add useful top-level fields into metadata too
             metadata["url"] = item.get("url")
             metadata["cuisine_name"] = item.get("cuisine_name")
             metadata["source"] = metadata.get("source") or item.get("url") or file_path.name
@@ -40,8 +38,8 @@ def data_loading(corpus_path):
         
         print("Splitting documents into chunks ...\n")
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=650,
-            chunk_overlap=120,
+            chunk_size=900,
+            chunk_overlap=400,
             separators=["\n\n", "\n", " ", ""]
         )
         print("Chunking the documents ...\n")
@@ -51,9 +49,9 @@ def data_loading(corpus_path):
             documents=chunks,
             embedding=embeddings,
             collection_name="Culinary_Knowledge",
-            persist_directory="./Vector_Storage_MasterChef",
+            persist_directory="./Vector_Storage_MasterChef_v2",
         )
-        print("*********************************************************")
+        print("***********************************************************")
         print(f"Loaded {len(docs)} documents")
         print(f"Created {len(chunks)} chunks")
         print("The vector store was created at ./Vector_Storage_MasterChef")

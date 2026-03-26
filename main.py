@@ -2,10 +2,8 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from RAG import *
 
-# --- Configuration & Setup ---
 app = FastAPI(title="Master Chef East Asian Culinary API")
 
-# --- Request/Response Schemas ---
 class QueryRequest(BaseModel):
     query: str
 
@@ -14,7 +12,6 @@ class QueryResponse(BaseModel):
     answer: str
     sources: list[dict]
 
-# --- API Endpoints ---
 
 @app.post("/ask-chef", response_model=QueryResponse)
 async def get_culinary_answer(request: QueryRequest):

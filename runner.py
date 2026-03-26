@@ -1,13 +1,13 @@
 import json
 import os
 from tqdm import tqdm
-from RAG import get_response 
+from RAG import get_response1 
 
 INPUT_FILE = "benchmark_dataset_v2.json"
 OUTPUT_FILE = "rag_results_2.json"
 def main():
     if not os.path.exists(INPUT_FILE):
-        print(f"❌ {INPUT_FILE} not found!")
+        print(f"{INPUT_FILE} not found!")
         return
 
     # 1. Load the Benchmark (New and Old questions)
@@ -24,18 +24,18 @@ def main():
                 rag_results = json.load(f)
                 # Store the actual question strings in a set for O(1) lookup
                 completed_questions = {item["question"] for item in rag_results}
-                print(f"📝 Found {len(completed_questions)} existing answers. Skipping those...")
+                print(f"Found {len(completed_questions)} existing answers. Skipping those...")
             except json.JSONDecodeError:
-                print("⚠️ Output file was empty or corrupted. Starting fresh.")
+                print("Output file was empty or corrupted. Starting fresh.")
                 rag_results = []
 
-    print(f"🚀 Running RAG on remaining questions...")
+    print(f"Running RAG on remaining questions...")
 
     # 3. Filter the dataset to only include new questions
     new_questions = [item for item in dataset if item.get("question") not in completed_questions]
 
     if not new_questions:
-        print("✅ All questions in the benchmark have already been processed!")
+        print("All questions in the benchmark have already been processed!")
         return
 
     for item in tqdm(new_questions):
@@ -43,7 +43,7 @@ def main():
         gold = item.get("gold_answer") or item.get("answer")
 
         try:
-            student_answer, sources, top_docs = get_response(question)
+            student_answer, sources, top_docs = get_response1(question)
 
             serializable_docs = []
             if top_docs:
@@ -66,10 +66,10 @@ def main():
                 json.dump(rag_results, f, indent=4, ensure_ascii=False)
 
         except Exception as e:
-            print(f"\n⚠️ Error on question: {question[:30]}... | {e}")
+            print(f"\nError on question: {question[:30]}... | {e}")
             continue
 
-    print(f"\n✅ Done! Total results in {OUTPUT_FILE}: {len(rag_results)}")
+    print(f"\nTotal results in {OUTPUT_FILE}: {len(rag_results)}")
 
-if __name__ == "__main__":
-    main()
+
+main()

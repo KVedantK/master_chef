@@ -1,9 +1,0 @@
-CLEANED RAG EVALUATION SUMMARY
-Excluded 16 reframed questions.
-
-
-GLOBAL TOTALS:
-correctness     3.72
-relevance       4.55
-faithfulness    4.03
-groundedness    4.24

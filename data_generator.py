@@ -3,16 +3,16 @@ from bs4 import BeautifulSoup
 import json
 import time
 
-# --- Your existing logic slightly standardized ---
 
-def extract_east_asian_urls(main_url):
-    headers = {"User-Agent": "AI-Coursework-Bot/1.0"}
+def extract_urls(main_url):
+    headers = {"User-Agent": "tester"}
     try:
         response = requests.get(main_url, headers=headers)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         heading_id = soup.find(id="East_Asian_cuisine")
-        if not heading_id: return []
+        if not heading_id: 
+            return []
         parent_heading_div = heading_id.find_parent('div', class_='mw-heading')
         link_container = parent_heading_div.find_next_sibling('div', class_='div-col')
         
@@ -30,7 +30,7 @@ def extract_east_asian_urls(main_url):
                         })
         return found_links
     except Exception as e:
-        print(f"Wiki Error: {e}")
+        print(f"Error: {e}")
         return []
 
 def get_links_from_page(url, headers):
@@ -49,17 +49,15 @@ def get_links_from_page(url, headers):
         return links
     except: return []
 
-def collect_all_sources():
+def collect_all_data():
     all_extracted_data = []
-    headers = {"User-Agent": "User/1.0"}
+    headers = {"User-Agent": "tester"}
     
-    # 1. Wikipedia Discovery
-    print("🌐 Extracting Wikipedia links...")
-    wiki_links = extract_east_asian_urls("https://en.wikipedia.org/wiki/List_of_cuisines")
+    print("Extracting links...")
+    wiki_links = extract_urls("https://en.wikipedia.org/wiki/List_of_cuisines")
     all_extracted_data.extend(wiki_links)
 
-    # 2. Wikibooks Discovery
-    print("📚 Extracting Wikibooks links...")
+    print("Extracting Wikibooks links...")
     base_wikibook = "https://en.wikibooks.org/wiki/Cookbook:East_Asian_cuisines"
     initial_items = get_links_from_page(base_wikibook, headers)
     seen_urls = set()
@@ -71,14 +69,13 @@ def collect_all_sources():
                 if "Category:" not in sub['url'] and sub['url'] not in seen_urls:
                     all_extracted_data.append({"title": sub['title'], "url": sub['url'], "origin": item['title']})
                     seen_urls.add(sub['url'])
-            time.sleep(0.2)
+            time.sleep(1)
         else:
             if item['url'] not in seen_urls:
                 all_extracted_data.append({"title": item['title'], "url": item['url'], "origin": "Main Page"})
                 seen_urls.add(item['url'])
 
-    # 3. Adding WordPress Category Links from Image
-    print("📝 Adding WordPress blog categories...")
+    print("Around the world static urls loading.")
     blog_links = [
         {"title": "Japan Category", "url": "https://aroundtheworldin80cuisinesblog.wordpress.com/category/12-japan/"},
         {"title": "Taiwan Category", "url": "https://aroundtheworldin80cuisinesblog.wordpress.com/category/22-taiwan/"},
@@ -87,11 +84,10 @@ def collect_all_sources():
     ]
     all_extracted_data.extend(blog_links)
 
-    # Final Save
     with open('master_urls.json', 'w', encoding='utf-8') as f:
         json.dump(all_extracted_data, f, indent=4, ensure_ascii=False)
     
-    print(f"\n✅ Done! Saved {len(all_extracted_data)} total URLs to master_urls.json")
+    print(f"\nSaved {len(all_extracted_data)} total URLs to master_urls.json")
 
 
 

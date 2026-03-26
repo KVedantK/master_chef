@@ -1,6 +1,0 @@
-RAG Evaluation Averages
-========================
-correctness     3.375
-relevance       4.325
-faithfulness    4.000
-groundedness    4.475
