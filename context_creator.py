@@ -4,7 +4,7 @@ from scraper import scrape_data_to_json
 from data_ingestion_v2 import data_loading
 from pathlib import Path
 
-DB_PATH = Path("./Vector_Storage_MasterChef")
+DB_PATH = Path("./corpus_data")
 
 def run_pipeline():
     print("--- Phase 1: Collecting Sources ---")
