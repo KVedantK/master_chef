@@ -49,7 +49,7 @@ def data_loading(corpus_path):
             documents=chunks,
             embedding=embeddings,
             collection_name="Culinary_Knowledge",
-            persist_directory="./Vector_Storage_MasterChef_v2",
+            persist_directory="./Vector_Storage_MasterChef",
         )
         print("***********************************************************")
         print(f"Loaded {len(docs)} documents")
