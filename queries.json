@@ -1,0 +1,104 @@
+{
+  "queries": [
+    {
+      "query_id": "0",
+      "query": "How are cream cheese wontons shaped before frying?"
+    },
+    {
+      "query_id": "1",
+      "query": "What seasonings were not used in traditional Ainu cuisine but appeared in modern Ainu cuisine?"
+    },
+    {
+      "query_id": "2",
+      "query": "How is citatap traditionally prepared in Ainu cuisine?"
+    },
+    {
+      "query_id": "3",
+      "query": "What ingredients are listed for making broccoli stir fry?"
+    },
+    {
+      "query_id": "4",
+      "query": "When should the broccoli be added during the stir-fry process, and how should it look when done?"
+    },
+    {
+      "query_id": "5",
+      "query": "What ingredients are used to make the tentsuyu broth served with agedashi tofu?"
+    },
+    {
+      "query_id": "6",
+      "query": "How is the pork cooked after marinating in the BBQ Pork Fried Rice recipe?"
+    },
+    {
+      "query_id": "7",
+      "query": "What ingredients are used to make the dough for Beef Yakiniku Pizza?"
+    },
+    {
+      "query_id": "8",
+      "query": "What ingredients are used to make the pepper salt seasoning for Cantonese crispy fried chicken?"
+    },
+    {
+      "query_id": "9",
+      "query": "To what internal temperature should the duck be roasted in the Cantonese roast duck recipe?"
+    },
+    {
+      "query_id": "10",
+      "query": "What type of wrapper is used to make egg rolls?"
+    },
+    {
+      "query_id": "11",
+      "query": "What toppings are typically added when serving gyudon?"
+    },
+    {
+      "query_id": "12",
+      "query": "How is the soup thickened in the hot and sour soup recipe?"
+    },
+    {
+      "query_id": "13",
+      "query": "What ingredients are used to make the marinade for Korean shortribs?"
+    },
+    {
+      "query_id": "14",
+      "query": "What ingredients are used to marinate the chicken in Kung Pao chicken?"
+    },
+    {
+      "query_id": "15",
+      "query": "What type of tofu is used in mapo tofu?"
+    },
+    {
+      "query_id": "16",
+      "query": "What meats are used in the filling for meat and shrimp potstickers?"
+    },
+    {
+      "query_id": "17",
+      "query": "What proportion of dashi and miso is typically used in traditional miso soup?"
+    },
+    {
+      "query_id": "18",
+      "query": "How long should soybeans be soaked before cooking when preparing natto?"
+    },
+    {
+      "query_id": "19",
+      "query": "What ingredients are combined to make the filling for pork gyoza dumplings?"
+    },
+    {
+      "query_id": "20",
+      "query": "What ingredients are combined to make the filling for steamed tuna bao buns?"
+    },
+    {
+      "query_id": "21",
+      "query": "What cut of pork is recommended for making char siu and why?"
+    },
+    {
+      "query_id": "22",
+      "query": "What is Korean temple cuisine and what are its origins?"
+    },
+    {
+      "query_id": "23",
+      "query": "What does the term 'itameshi' refer to in Japanese cuisine?"
+    },
+    {
+      "query_id": "24",
+      "query": "Why is temperature important when serving sushi rice?"
+    }
+  ]
+}
