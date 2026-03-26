@@ -33,7 +33,7 @@ def scrape_data_to_json():
     with open('master_urls.json', 'r', encoding='utf-8') as f:
         urls_to_scrape = json.load(f)
 
-    headers = {"User-Agent": "tester"}
+    headers = {"User-Agent": "Master-Chef-App-v1"}
 
     print(f"Scraping {len(urls_to_scrape)} pages local file")
 
