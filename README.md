@@ -62,6 +62,7 @@ pip install -r requirements.txt
 python formatted_runner.py
 ```
 - replace the questions in the `queries.json`
+- OPTIONALLY use the `runner.ipynb` to run test
 
 ### To test the full pipeline (not suggested as a bit time consuming)
 Delete the vector store 
